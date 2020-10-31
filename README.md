@@ -1,6 +1,7 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=baolong24&show_icons=true&theme=vue&hide_title=true" />
 ### Hi there 👋
 
-- I'm a student at HNIU (https://www.hniu.cn)
+- I'm a student at [HNIU](https://www.hniu.cn)
 
 <!--
 **baolong24/baolong24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
