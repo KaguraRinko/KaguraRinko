@@ -2,7 +2,13 @@
 
 ### Hi there 👋
 
-- I'm a student at [HNIU](https://www.hniu.cn)
+- 😄 I'm a student at [HNIU](https://www.hniu.cn)
+- 🔭 I’m currently working on Android
+- 🌱 I’m currently learning C/C++/Java
+- 📫 How to reach me: [@baolong24](t.me/baolong24)
+
+#### Here are my programming language used mostly:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baolong24)
 
 <!--
 **baolong24/baolong24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
