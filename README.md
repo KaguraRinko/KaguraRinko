@@ -1,11 +1,13 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=baolong24&show_icons=true&theme=vue&hide_title=true" />
-
 ### Hi there 👋
 
 - 😄 I'm a student at [HNIU](https://www.hniu.cn)
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning C/C++/Java
-- 📫 How to reach me: [@baolong24](t.me/baolong24)
+- 📫 How to reach me: [@baolong24](https://t.me/baolong24)
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=baolong24&show_icons=true&theme=vue&hide_title=true" />
+
 
 #### Here are my programming language used mostly:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baolong24)
