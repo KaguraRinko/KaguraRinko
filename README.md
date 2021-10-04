@@ -19,8 +19,9 @@
 ## 📱 Devices in use
 [![Redmi Note 9 Pro 5G](https://img.shields.io/badge/Redmi%20Note%209%20Pro%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redminote9pro)
 [![Redmi K30 5G](https://img.shields.io/badge/Redmi%20K30%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30-5g)
-[![iPhone 7](https://img.shields.io/badge/iPhone%207-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP743)
 [![Razer Phone](https://img.shields.io/badge/Razer%20Phone-009900?style=flat-square&logo=razer&logoColor=ffffff)](https://mysupport.razer.com/app/answers/detail/a_id/3759/~/razer-phone-support)
+[![iPhone 7](https://img.shields.io/badge/iPhone%207-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP743)
+[![iPhone 11](https://img.shields.io/badge/iPhone%2011-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP804)
 [![iPad Air 4](https://img.shields.io/badge/iPad%20Air%204-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP828)
 [![Lenovo Xiaoxin 13 Pro 2020](https://img.shields.io/badge/Lenovo%20Xiaoxin%2013%20Pro%202020-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://item.lenovo.com.cn/product/1007230.html)
 
