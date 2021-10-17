@@ -13,8 +13,8 @@
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)<br>
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)<br>
 [![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)<br>
-[![macOS Big Sur](https://img.shields.io/badge/macOS%20Big%20Sur-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
-[![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)<br>
+[![macOS Big Sur](https://img.shields.io/badge/macOS%20Big%20Sur-4f4f4f?style=flat-square&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+[![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)<br>
 
 ## 📱 Devices in use
 [![Razer Phone](https://img.shields.io/badge/Razer%20Phone-009900?style=flat-square&logo=razer&logoColor=ffffff)](https://mysupport.razer.com/app/answers/detail/a_id/3759/~/razer-phone-support)<br>
