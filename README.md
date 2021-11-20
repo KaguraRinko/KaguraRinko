@@ -9,6 +9,8 @@
  - Maintaining PixelExperience for Redmi K30 5G/Redmi Note 9 Pro.
  - Maintaining AOSP for Redmi K30 5G/Redmi Note 9 Pro/Razer Phone.
 
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=tgtfnoq6d6wccnfcxcjiwyzv7&cover_image=true&theme=default" />
+
 ## 💻 Working environment
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)<br>
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)<br>
