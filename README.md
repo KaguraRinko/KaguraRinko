@@ -1,4 +1,5 @@
-## 👋 Hi there
+
+## 👋 Hi there <img align="right" src="https://komarev.com/ghpvc/?username=baolong24" />
 
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=tgtfnoq6d6wccnfcxcjiwyzv7&cover_image=true&theme=default" />
 
