@@ -12,6 +12,8 @@
  - Maintaining AOSP for Redmi K30 5G/Redmi Note 9 Pro/Razer Phone.
 
 ## 💻 Working environment
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baolong24&theme=default" />
+
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)<br>
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)<br>
 [![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)<br>
