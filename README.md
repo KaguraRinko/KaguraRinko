@@ -1,7 +1,8 @@
 
 ## 👋 Hi there <img align="right" src="https://komarev.com/ghpvc/?username=baolong24" />
 
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=tgtfnoq6d6wccnfcxcjiwyzv7&cover_image=true&theme=default" />
+
+<img align="right" style="width: 30%;" src="https://spotify-github-profile.vercel.app/api/view?uid=tgtfnoq6d6wccnfcxcjiwyzv7&cover_image=true&theme=default" />
 
  - You can call me baolong24 or 凛凛酱 xD
  - I'm a student of Software Engineering from [HNIU](https://www.hniu.cn)
@@ -12,15 +13,14 @@
  - Maintaining AOSP for Redmi K30 5G/Redmi Note 9 Pro/Razer Phone.
 
 ## 💻 Working environment
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baolong24&theme=default" />
-
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)<br>
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)<br>
 [![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)<br>
 [![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-4f4f4f?style=flat-square&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
 [![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)<br>
 
-## 📱 Devices in use
+## 📱 Devices in use <img align="right" style="width: 45%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baolong24&theme=default" />
+
 [![Lenovo Xiaoxin 13 Pro 2020](https://img.shields.io/badge/Lenovo%20Xiaoxin%2013%20Pro%202020-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://item.lenovo.com.cn/product/1007230.html)<br>
 [![iPhone 11](https://img.shields.io/badge/iPhone%2011-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP804)
 [![iPhone 4](https://img.shields.io/badge/iPhone%204-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/sp587)
@@ -42,5 +42,6 @@
 [![Email](https://img.shields.io/badge/baolong24%40baolong24%2emoe-3873C4?style=flat-square&logo=thunderbird&logoColor=ffffff)](mailto:baolong24@baolong24.moe)
 
 ## 💰 Support my work
+
  - [PayPal](https://paypal.me/baolong24)
  - [WeChat/AliPay](https://telegra.ph/Donate-to-baolong24-03-14)
