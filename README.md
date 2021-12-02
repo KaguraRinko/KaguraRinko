@@ -1,8 +1,4 @@
-
-## 👋 Hi there <img align="right" src="https://komarev.com/ghpvc/?username=baolong24" />
-
-
-<img align="right" style="width: 30%;" src="https://spotify-github-profile.vercel.app/api/view?uid=tgtfnoq6d6wccnfcxcjiwyzv7&cover_image=true&theme=default" />
+## 👋 Hi there <img style="width: 60%;" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baolong24&theme=default" />
 
  - You can call me baolong24 or 凛凛酱 xD
  - I'm a student of Software Engineering from [HNIU](https://www.hniu.cn)
@@ -19,7 +15,7 @@
 [![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-4f4f4f?style=flat-square&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
 [![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)<br>
 
-## 📱 Devices in use <img align="right" style="width: 45%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baolong24&theme=default" />
+## 📱 Devices in use
 
 [![Lenovo Xiaoxin 13 Pro 2020](https://img.shields.io/badge/Lenovo%20Xiaoxin%2013%20Pro%202020-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://item.lenovo.com.cn/product/1007230.html)<br>
 [![iPhone 11](https://img.shields.io/badge/iPhone%2011-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP804)
@@ -45,3 +41,8 @@
 
  - [PayPal](https://paypal.me/baolong24)
  - [WeChat/AliPay](https://telegra.ph/Donate-to-baolong24-03-14)
+
+# Status <img align="right" src="https://komarev.com/ghpvc/?username=baolong24" />
+| Spotify | Steam |
+| ------- | ----- |
+| <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=tgtfnoq6d6wccnfcxcjiwyzv7&cover_image=true&theme=default" /> | <img align="center" src="https://steam-stat.vercel.app/api?profileName=baolong24" /> |
