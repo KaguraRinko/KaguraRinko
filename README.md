@@ -2,6 +2,7 @@
 
  - You can call me baolong24 or 凛凛酱 xD
  - I'm a student of Software Engineering from [HNIU](https://www.hniu.cn)
+ - Btw, all Android device tree has been moved to [baolong24-Studio](https://github.com/baolong24-Studio)
 
 ## 🤔 What I'm doing
  - Learning Java/Kotlin.
