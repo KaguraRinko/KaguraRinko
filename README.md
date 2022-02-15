@@ -41,6 +41,6 @@
  - [WeChat/AliPay](https://telegra.ph/Donate-to-baolong24-03-14) -->
 
 # Status <img align="right" src="https://komarev.com/ghpvc/?username=LynnrinChan" />
-| Spotify | Steam |
-| ------- | ----- |
-| <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=tgtfnoq6d6wccnfcxcjiwyzv7&cover_image=true&theme=default" /> | <img align="center" src="https://steam-stat.vercel.app/api?profileName=baolong24" /> |
+| Spotify |
+| ------- |
+| <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=tgtfnoq6d6wccnfcxcjiwyzv7&cover_image=true&theme=default" /> |
