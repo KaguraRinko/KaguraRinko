@@ -6,7 +6,7 @@
  - Learning Java/Kotlin.
  - Maintaining LineageOS for Redmi Note 9 Pro 5G
  - Maintaining PixelExperience for Redmi K30 5G/Redmi Note 9 Pro/Pixel 3.
- - Maintaining Lynnrin-AOSP for Redmi K20 Pro/Redmi K30 5G/Redmi Note 9 Pro/Pixel 3.
+ - Maintaining ArrowOS for Redmi K30 5G/Redmi Note 9 Pro.
 
 ## 💻 Working environment
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)<br>
