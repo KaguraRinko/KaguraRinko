@@ -32,7 +32,6 @@
 <br>
 
 ## 📫 Get in touch
-[![Twitter](https://img.shields.io/twitter/follow/LynnrinChan?color=1ca0f1&label=%40LynnrinChan&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/baolong24)
 [![Weibo](https://img.shields.io/badge/-@1404_xiaobao-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/u/5524053901)
 [![Telegram](https://img.shields.io/badge/%40Lynnrin-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Lynnrin_channel)
 [![Bilibili](https://img.shields.io/badge/1404__Xiaobao-07a3d7?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/15431912)
