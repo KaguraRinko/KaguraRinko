@@ -5,12 +5,12 @@
 ## 🤔 What I'm doing
  - Learning Java/Kotlin.
  - Maintaining LineageOS for Redmi Note 9 Pro 5G
- - Maintaining PixelExperience for Redmi K30 5G/Redmi Note 9 Pro/Pixel 3.
- - Maintaining ArrowOS for Redmi K30 5G/Redmi Note 9 Pro.
+ - Maintaining PixelExperience for Mi 10S/Redmi Note 9 Pro/Pixel 3.
+ - Maintaining ArrowOS for Redmi Note 9 Pro.
 
 ## 💻 Working environment
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)<br>
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)<br>
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)<br>
 [![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)<br>
 [![macOS Big Sur](https://img.shields.io/badge/macOS%20Big%20Sir-4f4f4f?style=flat-square&logo=macos&logoColor=ffffff)](https://web.archive.org/web/20211018011157/https://www.apple.com/macos/big-sur/)
 [![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)<br>
@@ -21,11 +21,10 @@
 [![iPhone 11](https://img.shields.io/badge/iPhone%2011-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP804)
 [![iPad Air 4](https://img.shields.io/badge/iPad%20Air%204-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP828)<br>
 [![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/note3)
-[![Redmi Note 3 Pro](https://img.shields.io/badge/Redmi%20Note%203%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/note3)
 [![Redmi Note 9 Pro 5G](https://img.shields.io/badge/Redmi%20Note%209%20Pro%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redminote9pro)
-[![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30-5g)
-[![Xiaomi Mi 2](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hk/mi8/specs)
+[![Xiaomi Mi 2](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.gsmarena.com/xiaomi_mi_2-4928.phps)
 [![Xiaomi Mi 8](https://img.shields.io/badge/Xiaomi%20Mi%208-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hk/mi8/specs)
+[![Xiaomi Mi 10S](https://img.shields.io/badge/Xiaomi%20Mi%2010S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi10s)
 <br>
 [![Samsung R428](https://img.shields.io/badge/Samsang%20R428-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://icecat.biz/p/samsung/np-r428-da04in/r-notebooks-np-r428-19566795.html)
 [![Samsung Galaxy S8](https://img.shields.io/badge/Samsang%20Galaxy%20S8-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.gsmarena.com/samsung_galaxy_s8-8161.php#g9500)
