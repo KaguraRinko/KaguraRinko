@@ -10,8 +10,8 @@
 ## 🤔 What I'm doing
  - Learning Java/Kotlin.
  - Maintaining LineageOS for Redmi Note 9 Pro 5G
- - Maintaining PixelExperience for Mi 10S/Redmi Note 9 Pro/Pixel 3.
- - Maintaining ArrowOS for Redmi Note 9 Pro.
+ - Maintaining PixelExperience for Mi 10S
+ - Maintaining ArrowOS for Redmi Note 9 Pro/Mi 10S.
 
 ## 💻 Working environment
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)<br>
