@@ -32,6 +32,9 @@
 [![Xiaomi Mi 8](https://img.shields.io/badge/Xiaomi%20Mi%208-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hk/mi8/specs)
 [![Xiaomi Mi Mix 3](https://img.shields.io/badge/Xiaomi%20Mi%20Mix%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix3/specs)
 [![Xiaomi Mi 10S](https://img.shields.io/badge/Xiaomi%20Mi%2010S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi10s)
+[![Xiaomi Mi Pad 5](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%205-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomipad5/specs)
+[![Xiaomi Mi Pad 5 Pro](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%205%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomipad5pro/specs)
+[![Xiaomi Mi Pad 5 Pro 12.4](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%205%20Pro%2012.4-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomipad5pro-124/specs)
 <br>
 [![Samsung R428](https://img.shields.io/badge/Samsang%20R428-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://icecat.biz/p/samsung/np-r428-da04in/r-notebooks-np-r428-19566795.html)
 <br>
