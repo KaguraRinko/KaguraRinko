@@ -11,13 +11,13 @@
  - Learning Java/Kotlin.
  - Maintaining LineageOS for Redmi Note 9 Pro 5G
  - Maintaining PixelExperience for Mi 10S
- - Maintaining ArrowOS for Redmi Note 9 Pro/Mi 10S.
+ - Maintaining ArrowOS for Redmi Note 9 Pro/Mi 10S/Mi Pad 5.
 
 ## 💻 Working environment
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)<br>
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff)](#)<br>
 [![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)<br>
-[![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-4f4f4f?style=flat-square&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
+[![macOS Ventura](https://img.shields.io/badge/macOS%20Monterey-4f4f4f?style=flat-square&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/)
 [![iOS 16](https://img.shields.io/badge/iOS%2016-4f4f4f?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/ios-16/)<br>
 
 ## 📱 Devices in use
@@ -33,8 +33,6 @@
 [![Xiaomi Mi Mix 3](https://img.shields.io/badge/Xiaomi%20Mi%20Mix%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix3/specs)
 [![Xiaomi Mi 10S](https://img.shields.io/badge/Xiaomi%20Mi%2010S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi10s)
 [![Xiaomi Mi Pad 5](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%205-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomipad5/specs)
-[![Xiaomi Mi Pad 5 Pro](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%205%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomipad5pro/specs)
-[![Xiaomi Mi Pad 5 Pro 12.4](https://img.shields.io/badge/Xiaomi%20Mi%20Pad%205%20Pro%2012.4-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomipad5pro-124/specs)
 <br>
 [![Samsung R428](https://img.shields.io/badge/Samsang%20R428-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://icecat.biz/p/samsung/np-r428-da04in/r-notebooks-np-r428-19566795.html)
 <br>
