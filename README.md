@@ -17,7 +17,7 @@
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)<br>
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff)](#)<br>
 [![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)<br>
-[![macOS Ventura](https://img.shields.io/badge/macOS%20Monterey-4f4f4f?style=flat-square&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/)
+[![macOS Ventura](https://img.shields.io/badge/macOS%20Ventura-4f4f4f?style=flat-square&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/)
 [![iOS 16](https://img.shields.io/badge/iOS%2016-4f4f4f?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/ios-16/)<br>
 
 ## 📱 Devices in use
