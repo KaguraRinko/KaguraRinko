@@ -22,6 +22,7 @@
 
 ## 📱 Devices in use
 
+[![iPhone 5C](https://img.shields.io/badge/iPhone%205C-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP684)
 [![iPhone 11](https://img.shields.io/badge/iPhone%2011-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP804)<br>
 [![Redmi Mi 3](https://img.shields.io/badge/Redmi%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi3)
 [![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/note4g)
