@@ -9,9 +9,6 @@
 
 ## 🤔 What I'm doing
  - Learning Java/Kotlin.
- - Maintaining LineageOS for Redmi Note 9 Pro 5G
- - Maintaining PixelExperience for Mi 10S
- - Maintaining ArrowOS for Redmi Note 9 Pro/Mi 10S/Mi Pad 5.
 
 ## 💻 Working environment
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)<br>
@@ -39,8 +36,3 @@
 [![Weibo](https://img.shields.io/badge/-@1404_xiaobao-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/u/5524053901)
 [![Telegram](https://img.shields.io/badge/%40Lynnrin-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Lynnrin_channel)
 [![Bilibili](https://img.shields.io/badge/Lynnrin-07a3d7?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/15431912)
-
-<!-- ## 💰 Support my work
-
- - [PayPal](https://paypal.me/LynnrinChan)
- - [WeChat/AliPay](https://afdian.net/@Lynnrin) -->
