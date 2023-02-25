@@ -31,8 +31,3 @@
 [![Motorola Edge X30](https://img.shields.io/badge/Motorola%20Edge%20X30-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](https://www.motorola.com/hk/smartphones-motorola-edge-30-pro/)<br>
 [![Samsung R428](https://img.shields.io/badge/Samsang%20R428-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://icecat.biz/p/samsung/np-r428-da04in/r-notebooks-np-r428-19566795.html)<br>
 [![Lenovo Xiaoxin 13 Pro 2020](https://img.shields.io/badge/Lenovo%20Xiaoxin%2013%20Pro%202020-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://item.lenovo.com.cn/product/1007230.html)<br>
-
-## 📫 Get in touch
-[![Weibo](https://img.shields.io/badge/-@1404_xiaobao-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/u/5524053901)
-[![Telegram](https://img.shields.io/badge/%40Lynnrin-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Lynnrin_channel)
-[![Bilibili](https://img.shields.io/badge/Lynnrin-07a3d7?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/15431912)
