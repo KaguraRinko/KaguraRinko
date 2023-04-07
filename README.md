@@ -19,15 +19,13 @@
 
 ## 📱 Devices in use
 
-[![iPhone 5C](https://img.shields.io/badge/iPhone%205C-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP684)
 [![iPhone 11](https://img.shields.io/badge/iPhone%2011-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP804)<br>
-[![Redmi Mi 3](https://img.shields.io/badge/Redmi%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi3)
+[![Redmi 3](https://img.shields.io/badge/Redmi%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi3)
 [![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/note4g)
-[![Redmi Note 9 Pro 5G](https://img.shields.io/badge/Redmi%20Note%209%20Pro%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redminote9pro)<br>
+<br>
 [![Xiaomi Mi 2](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.gsmarena.com/xiaomi_mi_2-4928.phps)
 [![Xiaomi Mi 4](https://img.shields.io/badge/Xiaomi%20Mi%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4/params)
-[![Xiaomi Mi 10S](https://img.shields.io/badge/Xiaomi%20Mi%2010S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi10s)
 <br>
-[![Motorola Edge X30](https://img.shields.io/badge/Motorola%20Edge%20X30-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](https://www.motorola.com/hk/smartphones-motorola-edge-30-pro/)<br>
+[![OnePlus Ace 2](https://img.shields.io/badge/OnePlus%20Ace%202-F10514?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/cn/ace-2/specs)<br>
 [![Samsung R428](https://img.shields.io/badge/Samsang%20R428-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://icecat.biz/p/samsung/np-r428-da04in/r-notebooks-np-r428-19566795.html)<br>
 [![Lenovo Xiaoxin 13 Pro 2020](https://img.shields.io/badge/Lenovo%20Xiaoxin%2013%20Pro%202020-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://item.lenovo.com.cn/product/1007230.html)<br>
