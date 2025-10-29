@@ -16,5 +16,5 @@
 
 ## 📱 Devices in use
 
-[![iPhone 17](https://img.shields.io/badge/iPhone%2015-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone-17/specs/)<br>
+[![iPhone 17](https://img.shields.io/badge/iPhone%2017-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone-17/specs/)<br>
 [![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP825)<br>
